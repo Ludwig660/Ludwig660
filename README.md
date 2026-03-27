@@ -35,7 +35,7 @@
 
 * **Descrizione:** Una vetrina interattiva delle mie competenze in ambito Web e Digital Business.
 * **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`.
-* * **Key Feature:** Struttura del sito pensata per valorizzare non solo il codice, ma l'impatto dei progetti sul mercato digitale.
+* **Key Feature:** Struttura del sito pensata per valorizzare non solo il codice, ma l'impatto dei progetti sul mercato digitale.
  
 ---
 
