@@ -37,4 +37,4 @@
 Se vuoi scambiare due chiacchiere su un progetto, sulla tecnologia o sul mondo del digital business, sentiti libero di scrivermi!
 
 * 📧 **Email:** [luigiiorio764@gmail.com](mailto:luigiiorio764@gmail.com)
-* 🐙 **GitHub:** [github.com/Hludwig660](https://github.com/Hludwig660)
+* 🐙 **GitHub:** [github.com/Ludwig660](https://github.com/Hludwig660)
