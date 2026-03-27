@@ -1,16 +1,22 @@
-## Hi there 👋
+Ciao sono Iorio Luigi 👋
+🚀 Studente di "Informatica per le Aziende Digitali"
+👤 Chi Sono
+🎓 Percorso Accademico: Studente di Informatica per le Aziende Digitali.
+💡 Mission: Creare soluzioni digitali che uniscano estetica e logica aziendale.
+🛠️ Tech Stack
+🎨 Frontend	⚙️ Backend & Logic	🔧 Tools & DB
+HTML5 & CSS3	JavaScript (ES6+)	Git & GitHub
+Sass / SCSS	C Language	MySQL & Relational DB
+Responsive Design	SQL Queries	VS Code
+📂 Progetti in Evidenza
+🚗 GG Auto Vendita
+Piattaforma vetrina per la compravendita di veicoli.
 
-<!--
-**Ludwig660/Ludwig660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Descrizione: Sviluppo di un'interfaccia web dedicata alla gestione di un parco auto reale.
+Tech Stack: HTML5, CSS3, JavaScript.
+Key Feature: Focus sulla SEO locale e chiarezza delle informazioni tecniche del veicolo.
+📫 Come Contattarmi
+Se vuoi scambiare due chiacchiere su un progetto, sulla tecnologia o sul mondo del digital business, sentiti libero di scrivermi!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email: luigiiorio764@gmail.com
+🐙 GitHub: github.com/Hludwig660
