@@ -17,7 +17,7 @@
 | :--- | :--- | :--- |
 | **HTML5 & CSS3** | **JavaScript (ES6+)** | **Git & GitHub** |
 | **Sass / SCSS** | **C Language** | **MySQL & Relational DB** | **APEX** |
-| **Responsive Design** | **SQL Queries** | **VS Code** |
+| **Responsive Design** | **SQL / SOQL / SOSL** | **VS Code** |
 
 ---
 
