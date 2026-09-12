@@ -16,7 +16,7 @@
 | 🎨 Frontend | ⚙️ Backend & Logic | 🔧 Tools & DB |
 | :--- | :--- | :--- |
 | **HTML5 & CSS3** | **JavaScript (ES6+)** | **Git & GitHub** |
-| **Sass / SCSS** | **C Language** | **MySQL & Relational DB** |
+| **Sass / SCSS** | **C Language** | **MySQL & Relational DB** |  **APEX**  |
 | **Responsive Design** | **SQL Queries** | **VS Code** |
 
 ---
